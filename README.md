@@ -22,13 +22,13 @@ Token Grabber is a VB.NET application designed to demonstrate the potential cons
 
 3.  Modify the Discord WebHook channel Url 
    
-   ```visual-basic
+   ```vbnet
    Dim webhookurl As String = "URL HERE"
    ```
 
 4. Add the following code to your main module:
    
-```visual-basic
+```vbnet
    Imports System.Threading
    
    Module Main
